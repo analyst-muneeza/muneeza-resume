@@ -1,2 +1,8 @@
-# muneeza-resume
-My Data Analyst Intern resume and portfolio links
+# Muneeza – Data Analyst Intern Resume
+
+📄 Download my resume:  
+👉 [Click here](https://github.com/analyst-muneeza/muneeza-resume/blob/main/Muneeza_Intern_CV.pdf)
+
+🔗 GitHub Portfolio: https://github.com/analyst-muneeza  
+🔗 LinkedIn: https://linkedin.com/in/muneezaali-/
+
