@@ -6,3 +6,7 @@
 🔗 GitHub Portfolio: https://github.com/analyst-muneeza  
 🔗 LinkedIn: https://linkedin.com/in/muneezaali-/
 
+🎓 Certificate:
+https://github.com/analyst-muneeza/muneeza-resume/tree/main/Certificates
+
+
