@@ -2,8 +2,6 @@
 
 ## 📊 Google Analytics Certificate
 
-![Google Certificate](Google%20Analytics%20Certificate.jpeg)
-
 🔗 View Certificate
 https://github.com/analyst-muneeza/muneeza-resume/blob/main/Certificates/Google%20Analytics%20Certificate.jpeg
 
