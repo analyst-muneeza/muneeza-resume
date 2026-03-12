@@ -1,8 +1,24 @@
-# Data Analyst Certificate
+# Data Analyst Certificates
 
-🎓 Certification in Data Analytics
+## 📊 Google Analytics Certificate
 
-This repository contains my official Data Analyst certification
-completed during professional training.
+![Google Certificate](Google%20Analytics%20Certificate.jpeg)
 
-📄 Download certificate from this folder.
+🔗 View Certificate
+https://github.com/analyst-muneeza/muneeza-resume/blob/main/Certificates/Google%20Analytics%20Certificate.jpeg
+
+## 💼 Deloitte Data Analytics Virtual Internship
+
+🔗 View Certificate
+https://github.com/analyst-muneeza/muneeza-resume/blob/main/Certificates/Deloitte%20Certificate.pdf
+
+## 📈 Microsoft Data Analyst Certificate
+
+🔗 View Certificate
+https://github.com/analyst-muneeza/muneeza-resume/blob/main/Certificates/Microsoft_certificate.pdf
+
+## 🤖 CloudyML Data Analytics Program
+
+🔗 View Certificate
+https://github.com/analyst-muneeza/muneeza-resume/blob/main/Certificates/Muneeza_Data_Analyst_Certificate.pdf
+
