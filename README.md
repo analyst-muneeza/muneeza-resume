@@ -1,12 +1,14 @@
 # Muneeza – Data Analyst Intern Resume
 
 📄 Download my resume:  
-👉 [Click here](https://github.com/analyst-muneeza/muneeza-resume/blob/main/Muneeza_Intern_CV.pdf)
+https://github.com/analyst-muneeza/muneeza-resume/raw/main/Muneeza_Data_Analyst_Resume.pdf
 
 🔗 GitHub Portfolio: https://github.com/analyst-muneeza  
 🔗 LinkedIn: https://linkedin.com/in/muneezaali-/
 
-🎓 Certificate:
+🎓 Certificates:
+Data Analytics Live Program - CloudyML
 https://github.com/analyst-muneeza/muneeza-resume/tree/main/Certificates
+
 
 
