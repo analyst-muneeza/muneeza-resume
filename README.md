@@ -1,7 +1,6 @@
 # Muneeza – Data Analyst Portfolio
 
-Entry-level Data Analyst with hands-on experience in Python, SQL, Excel, Power BI, and Tableau.  
-I build data projects focused on business insights, dashboards, and data analysis.
+Data Analyst with 6+ years of enterprise B2B sales experience and hands-on expertise in Python, SQL, Excel, Power BI, and Tableau. I build end-to-end analytics projects focused on business insights, KPI reporting, and interactive dashboards.
 
 📄 Resume  
 [⬇️ Download My Resume](https://raw.githubusercontent.com/analyst-muneeza/muneeza-resume/main/Muneeza_Ali_Resume.pdf)
