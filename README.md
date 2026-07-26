@@ -4,7 +4,7 @@ Entry-level Data Analyst with hands-on experience in Python, SQL, Excel, Power B
 I build data projects focused on business insights, dashboards, and data analysis.
 
 📄 Resume  
-Muneeza Ali – Resume PDF
+file:///C:/Users/Muneeza/Downloads/Muneeza_Ali_Resume%20(1).pdf
 
 📊 Data Projects  
 https://github.com/analyst-muneeza/muneeza-data-portfolio
